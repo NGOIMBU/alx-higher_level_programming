@@ -1,0 +1,2 @@
+#!/bin/bash
+Install python3 $PYFILE
