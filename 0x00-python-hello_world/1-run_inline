@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-print(f"Hello World"!) $PYCODE
+#!/bin/bash
+print(f'Hello World'!) "$PYCODE"
